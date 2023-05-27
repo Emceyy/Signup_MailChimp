@@ -27,3 +27,6 @@ http://localhost:3000
 
 You will see a simple form where you can enter your first name, last name and email address and click on the "Sign in" button. If everything goes well, you will see a success message. Otherwise, you will see an error message with some details.
 
+## License
+
+This project is licensed under the ISC license.
